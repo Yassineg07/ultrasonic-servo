@@ -1,0 +1,48 @@
+# STM32CubeIDE specific files
+.metadata/
+.settings/
+Debug/
+Release/
+*.launch
+
+# Object files and build artifacts
+*.o
+*.ko
+*.obj
+*.elf
+*.hex
+*.list
+*.map
+*.su
+*.bin
+
+# IDE specific
+.cproject
+.project
+.mxproject
+*.ld
+
+# Dependency files
+*.d
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Other files
+*.bak
+*.swp
+*.swo
